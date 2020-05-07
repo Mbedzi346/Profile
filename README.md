@@ -1,28 +1,28 @@
 # Profile
 ## Orifha Mbedzi
 
-### Education
+## Education
 * BSc IKS (University of Pretoria) [2017 - Present]
 
-### Development Tools and Languages I Have Solid Experience In
-#### Web Frameworks 
+## Development Tools and Languages I Have Solid Experience In
+### Web Frameworks 
 * Angular (TypeScript)
 * Node.js (JavaScript)
 * Flask (Python)
-#### Database Management Systems
+### Database Management Systems
 * MongoDB
 * MySQL
-#### Deployment Platforms
+### Deployment Platforms
 * Nginx on a Linux Cloud Server 
 * Google Firebase
-#### Programming Languages
+### Programming Languages
 * C++
 * Javascript
 * Typescript
 * Python
 
-### Development Tools and Languages I am Only Familiar With(No Solid Experience)
-#### Web Frameworks
+## Development Tools and Languages I am Only Familiar With(No Solid Experience)
+### Web Frameworks
 * Vue.js (Javascript)
 * Django (Python)
 * Ruby on Rails (Ruby)
